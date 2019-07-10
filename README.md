@@ -1,1 +1,1 @@
-Django Web开发学习
+Django Web学习
